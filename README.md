@@ -4,4 +4,5 @@
 :traffic_light: 短暂混迹于某图形公司</br>
 :construction: 被朋友忽悠进了工程行业，开始接触工程建设解决方案</br>
 :rocket: 整装待发...
+
 <img src="https://github-readme-stats.vercel.app/api?username=swfbarhr&show_icons=true&theme=vue&hide_title=true" />
