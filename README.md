@@ -3,4 +3,4 @@
 :bank: 来上海，供职于一家互联网P2P公司</br>
 :traffic_light: 短暂混迹于某图形公司</br>
 :construction: 被朋友忽悠进了工程行业，开始接触工程建设解决方案</br>
-:rocket: 整装待发...
+:rocket: 进入城市规划行业，准备深耕
