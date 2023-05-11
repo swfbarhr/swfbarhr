@@ -2,5 +2,5 @@
 :sunny: 在人生第二家公司做一些框架和底层类的工作，并潜心研究JavaScript</br>
 :bank: 来上海，供职于一家互联网P2P公司</br>
 :traffic_light: 短暂混迹于某图形公司</br>
-:construction: 被朋友忽悠进了工程行业，开始接触工程建设解决方案</br>
-:rocket: 进入城市规划行业，准备深耕
+:construction: 被忽悠进了工程行业，接触工程建设解决方案</br>
+:rocket: 国产化交通saas平台进行中
