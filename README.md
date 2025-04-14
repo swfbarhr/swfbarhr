@@ -1,6 +1,20 @@
-:grin: 为了正大光明的玩电脑，直接选择了计算机专业，打dota比较多</br>
-:sunny: 在人生第二家公司做一些框架和底层类的工作，并潜心研究JavaScript</br>
-:bank: 来上海，供职于一家互联网P2P公司</br>
-:traffic_light: 短暂混迹于某图形公司</br>
-:construction: 被忽悠进了工程行业，接触工程建设解决方案</br>
-:rocket: 交通saas平台进行中
+# 👨‍💻 Hello, I'm 老孙 👋
+
+I'm a **Computer Science Major**, passionate about **JavaScript** and **Dota** 🎮.
+
+## 🚀 目前工作
+- 🔧 **框架和底层编程** | 专注于 **JavaScript** 和 **高性能** 开发
+- 🏙️ **上海** | 在 **交通SaaS平台** 上努力实现创新
+
+## 🌱 当前学习
+- 🚀 **探索现代Web开发**、**React**、**Node.js**
+- 🧑‍💻 **深入研究** TypeScript、GraphQL、微服务架构
+
+## 🔥 技术栈
+- 💻 **JavaScript**, **TypeScript**
+- 🌐 **Node.js**, **React**, **Vue.js**
+- 🗄️ **PostgreSQL**, **Redis**
+- ☁️ **Docker**, **Kubernetes**
+
+## 📣 联系我
+- 📧 Email: [swfbarhr@gmail.com]
