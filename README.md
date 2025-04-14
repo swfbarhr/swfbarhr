@@ -12,7 +12,7 @@ I'm a **Computer Science Major**, passionate about **JavaScript** and **Dota** �
 
 ## 🔥 技术栈
 - 💻 **JavaScript**, **TypeScript**
-- 🌐 **Node.js**, **React**, **Vue.js**
+- 🌐 **Node.js**,**Rust**, **React**, **Vue.js**
 - 🗄️ **PostgreSQL**, **Redis**
 - ☁️ **Docker**, **Kubernetes**
 
